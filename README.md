@@ -47,7 +47,10 @@ Here are some ideas to get you started:
  
   <br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinDing2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinDing2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-[![MinDing2's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinDing2&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bisz/github-readme-stats)
+   [![MinDing2's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinDing2&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bisz/github-readme-stats)
+
+   <h2>Velog 주소</h2> <br>
+   <a>https://velog.io/@youvccc</a>
 </div>
