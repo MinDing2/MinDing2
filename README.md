@@ -49,7 +49,7 @@ MinDing2&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&de
  
   <br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinDing2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/)
 </div>
