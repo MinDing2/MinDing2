@@ -49,5 +49,7 @@ Here are some ideas to get you started:
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinDing2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@youvccc)
+[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?
+username=MinDing2&include_all_commits=true&show_icons=true&theme=cobalt)]
+(https://github.com/bi-sz/github-readme-stats)
 </div>
