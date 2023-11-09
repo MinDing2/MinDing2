@@ -51,5 +51,5 @@ MinDing2&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&de
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinDing2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=MinDing2&color=dark)](https://velog.io/)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=MinDing2&color=dark)](https://velog.io/@youvccc)
 </div>
