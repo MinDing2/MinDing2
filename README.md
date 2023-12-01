@@ -1,7 +1,9 @@
 
 
 Here are some ideas to get you started:
-
+<!--
+<h2> JEOM MIN JIN😄</h2>
+<hr>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,9 +16,7 @@ Here are some ideas to get you started:
 
 <div align="center"> 
   
-<!--
-<h2> JEOM MIN JIN😄</h2>
-<hr>
+
 
 ####  :wave: Welcome my github profile !
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youvcc)](https://solved.ac/youvcc/)
