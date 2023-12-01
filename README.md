@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=MinDing2&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ####  :wave: Welcome my github profile !
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/youvccc@naver.com/) 
   
  <br/>
  <br/>
