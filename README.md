@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ####  :wave: Welcome my github profile !
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youvcc)](https://solved.ac/youvcc/)
-  
+    [![MinDing2's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinDing2&include_all_commits=true&show_icons=true&theme=cobalt)
  <br/>
  <br/>
   
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
    <br/>
  
 #### :pencil2: Study log
-  [![MinDing2's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinDing2&include_all_commits=true&show_icons=true&theme=cobalt)
+
     
    <br/>
    <br/>
