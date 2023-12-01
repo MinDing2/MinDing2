@@ -1,7 +1,5 @@
 
-<!--
-<h2> JEOM MIN JIN😄</h2>
-<hr>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,9 +13,10 @@ Here are some ideas to get you started:
 -->
 
 <div align="center"> 
+<!--
+<h2> JEOM MIN JIN😄</h2>
+<hr>
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=MinDing2&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-  
 ####  :wave: Welcome my github profile !
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youvcc)](https://solved.ac/youvcc/)
   
